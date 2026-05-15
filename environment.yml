@@ -1,0 +1,16 @@
+name: nyc-asthma
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas=2.1.1
+  - numpy=1.26.2
+  - matplotlib=3.8.0
+  - seaborn=0.12.2
+  - jupyterlab=3.6.4
+  - geopandas=0.14.0
+  - scikit-learn=1.2.2
+  - statsmodels=0.14.0
+  - pip
+  - pip:
+    - -r requirements.txt

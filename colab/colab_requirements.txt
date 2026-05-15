@@ -1,0 +1,14 @@
+
+pandas==2.1.1
+numpy==1.26.2
+matplotlib==3.8.0
+seaborn==0.12.2
+jupyter==1.0.0
+notebook==6.5.4
+scipy==1.11.3
+statsmodels==0.14.0
+scikit-learn==1.2.2
+nbconvert==7.5.0
+# geopandas and rasterio included but may require extra system deps on Colab
+geopandas==0.14.0
+rasterio==1.3.8
