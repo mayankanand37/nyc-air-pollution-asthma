@@ -1,7 +1,7 @@
 """Helper script for Colab: installs requirements and optionally downloads data.
 
 Usage in Colab:
-!python colab/setup_colab.py --raw-base https://raw.githubusercontent.com/GITHUB_USER/REPO/main
+!python colab/setup_colab.py --raw-base https://raw.githubusercontent.com/mayankanand3007/nyc-air-pollution-asthma/main
 """
 import argparse
 import subprocess
